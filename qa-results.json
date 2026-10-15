@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "page_viewport_checks": [
+    {
+      "width": 360,
+      "page": "index.html",
+      "http_status": 200,
+      "navigation_visible": true,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 360,
+      "page": "about.html",
+      "http_status": 200,
+      "navigation_visible": true,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 360,
+      "page": "services.html",
+      "http_status": 200,
+      "navigation_visible": true,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 360,
+      "page": "contact.html",
+      "http_status": 200,
+      "navigation_visible": true,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 768,
+      "page": "index.html",
+      "http_status": 200,
+      "navigation_visible": true,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 768,
+      "page": "about.html",
+      "http_status": 200,
+      "navigation_visible": true,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 768,
+      "page": "services.html",
+      "http_status": 200,
+      "navigation_visible": true,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 768,
+      "page": "contact.html",
+      "http_status": 200,
+      "navigation_visible": true,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 1440,
+      "page": "index.html",
+      "http_status": 200,
+      "navigation_visible": true,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 1440,
+      "page": "about.html",
+      "http_status": 200,
+      "navigation_visible": true,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 1440,
+      "page": "services.html",
+      "http_status": 200,
+      "navigation_visible": true,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 1440,
+      "page": "contact.html",
+      "http_status": 200,
+      "navigation_visible": true,
+      "horizontal_overflow": false
+    }
+  ],
+  "keyboard_skip_link": "pass",
+  "services_navigation": "pass",
+  "contact_navigation_and_email_link": "pass",
+  "screenshots": [
+    "preview-desktop.png",
+    "preview-mobile.png"
+  ],
+  "scope": "Synthetic sample only; no client deployment or live form delivery tested"
+}
